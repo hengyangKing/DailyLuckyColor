@@ -1,0 +1,2566 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240203T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:38733711-7b1f-4cca-84e3-64c072991eb1@3873.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241113T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:c2e0d2e5-0fcc-4277-b40d-6e80aea6ff0a@c2e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241010T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:b5b6a466-8026-4b6e-b2ea-afed7ab58d9c@b5b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240604T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:edef7678-b317-4cb6-8414-02fd2a226639@edef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240211T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:f5914f56-03d6-4786-86e4-241071f86ef1@f591.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240324T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:19a25687-f4cf-443b-9f5f-0d26f64f83ee@19a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240723T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:b75ae43f-1537-470d-af4c-8b09ab3fd70d@b75a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241119T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:af5f668f-4948-4ced-9f99-23a840ba16e7@af5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240229T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:c3f144d3-4960-4f76-873e-e83fff522e64@c3f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240902T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:ea9ca610-f2f1-489f-b806-f6f8a6f1c0d1@ea9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240307T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:13bbab3c-6b66-43ca-8cb6-12e12c664111@13bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240212T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:bf0b9071-632d-4b72-9ccb-25b987aa9bab@bf0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240120T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:21386619-4ab5-498f-9f26-9adecedc1847@2138.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240712T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:d13d36ef-3f4a-4467-9d5c-f9b9e9b5d88a@d13d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241122T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:80278e91-eefe-4bac-8a42-02cb0243ba7d@8027.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240627T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:4cfb1db3-d836-494b-958c-d9e8a7b26007@4cfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241025T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:4621211a-83fa-4991-81e2-79dac29253d1@4621.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240811T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:45bd994f-b7fe-4740-b223-6cc9cae8285e@45bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240408T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:d3dcec81-5b94-4f02-be6a-dec7a3396dab@d3dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241003T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:3f357e53-c032-43ba-8839-4b5bf8aa8095@3f35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240407T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:07221a3b-eb61-4b50-8095-722c5db1da76@0722.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240728T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:e20f6e2c-fdc5-4ca0-b505-b8ad69bfd59d@e20f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240404T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:5891f320-a605-4bec-a7ff-33e43ae95ba8@5891.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240510T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:36d6db09-bafa-41a2-9783-f5b89103bac3@36d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240213T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:b8cf11f1-e47e-494b-b152-ad1c97282a7f@b8cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240926T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:796ca13b-2ec9-4eec-99a0-d980a3ce77bd@796c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240817T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:d9dcfdc7-8c27-4c48-8632-696c4539069b@d9dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240917T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:2a7d51be-dff9-4fef-ba29-8d5c54936486@2a7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240305T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:924eba13-92c3-43cc-8bdf-23642cddb0dd@924e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240623T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:37cfe01a-b955-450f-bfb0-cf9a46ccdf55@37cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241014T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:d7deb216-4394-4391-be4c-6bf739f8e0ef@d7de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241102T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:1a3e5a6f-1945-424c-b5ae-596e3b13650a@1a3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241004T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:6d4b956d-d60d-4159-80d5-f6dc895c284d@6d4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240826T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:5f56a677-4192-41b2-b9c9-106b4a28a8ab@5f56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240215T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:64ec0b89-281c-4491-85d1-06bb14bcbae8@64ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240224T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:33e474de-56cc-4dcc-a453-0b6681d41ea8@33e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240426T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:b80e28f6-20f1-4125-bcc8-df5811686179@b80e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240424T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:003ae5f5-cd13-4039-adee-eea651ccf285@003a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241028T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:cf81d11f-3274-4b84-ba78-c06f470cd8eb@cf81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240922T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:381d1f73-56f3-4580-b139-3d4a45aa1d67@381d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240819T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:44818572-7b34-43c1-bbee-bb1cfecfd706@4481.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240130T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:85915af8-c123-41b2-8a02-4a13347d2cb2@8591.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240516T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:0d339e69-4286-479d-8d2e-67ea9f511ceb@0d33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241130T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:4dc34412-67a9-4301-a051-052cea9efb6d@4dc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240907T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:be99cdd4-4514-42a2-b9aa-6809ed3faeef@be99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241026T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:8e8e78b5-79eb-456b-9f7e-fa76ead83654@8e8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241126T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:d3aefc6c-28f8-4d1f-a299-569a0afe2b8d@d3ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240511T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:71c6adcd-da77-4450-a956-37b97acb1ebe@71c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240610T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:0b0f5a21-0804-48db-b421-51698f1677f4@0b0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240711T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:c1ae7f17-55b2-4e88-83f5-b88599f9779e@c1ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240406T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:3a134c2b-4a97-4eda-893e-7225ffd59c3c@3a13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241030T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:f36ca510-44c7-4948-8b32-1caff283fdb4@f36c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240722T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:eebbef83-940c-453b-a678-cfc20c2fb7af@eebb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241220T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:8977d3fc-6262-407d-9e05-0f20a72c2edc@8977.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241115T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:ac267fd9-75f3-4c98-96b7-8b90fb777521@ac26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240807T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:e4757a39-b24e-4c53-9092-091b0bf6188b@e475.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240405T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:f9363b66-9476-4d76-8f85-c845d50fb143@f936.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240620T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:ed7e50f7-9ad4-4496-aac5-c674cf5348d4@ed7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241002T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:734f5627-f9b3-4f75-bd1e-befeaf387aa5@734f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240425T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:cd7be03a-26f0-492b-8774-5116de597539@cd7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20241223T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:62bbdd91-86df-4392-8f11-02da034543c6@62bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240625T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:b7b5b3d4-2e47-4e2e-8976-47a423082c77@b7b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240322T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:75634602-fc01-4b9a-a0e7-9550588e2ed9@7563.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240223T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:13cddb02-d89c-4d90-8a47-6cfdf4f4551f@13cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240822T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:29ec9327-011a-465c-a106-b7dd0ebcd5ef@29ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241019T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:5508ded6-480b-4453-b473-a9843245ec12@5508.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240303T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:a26ac061-0655-48c3-a121-c3ff6735920c@a26a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240502T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:59114dba-fed0-4fb2-beee-889bacc3af29@5911.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240204T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:9a596646-f35d-4db5-a37e-55873f308ab9@9a59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241016T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:901ab610-d964-4cb3-897d-77ab633548d1@901a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240412T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:d0f10ea4-610a-400b-8a1d-28fdca053b67@d0f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241018T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:3a2bffc9-632f-44a8-9859-6a88d7fd8383@3a2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240801T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:7ba6435e-2f32-4c96-92da-3994585ece3e@7ba6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240719T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:a2952f77-6a8f-443d-b205-29dbfbab66d2@a295.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240730T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:c6681a69-5fde-4689-a204-d9144b221055@c668.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241107T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:a7805927-0826-456e-8a70-4c7733f7e388@a780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241127T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:b7bb0fc0-6c30-4117-a073-8d3f620ea847@b7bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240318T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:ef5ead09-44c0-4efd-b5a4-76acad0796af@ef5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240206T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:34c04810-eca8-4315-832d-8cae3535385e@34c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241219T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:85791920-3525-4efe-9565-72c7813b253b@8579.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240513T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:687766fe-e05e-4450-9bd6-4dbd51dbd3de@6877.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240202T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:da02cb5a-e91d-4337-98b8-b476dd848bef@da02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240515T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:9525a2d7-a250-4768-b70a-f52f9e924522@9525.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241110T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:f08516ed-e7f5-4a2e-8a72-f9155d506ed8@f085.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240208T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:edca0f2f-0411-4d4f-8fa0-99034060f94f@edca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240717T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:ecce551a-1efe-4670-8524-41108bf9654b@ecce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240214T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:de114f98-a6ed-4a6a-9c0b-c96f20076092@de11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240506T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:b30d9f49-c4e4-4382-999f-03fd371a10b7@b30d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241124T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:b31abb3e-055e-4a0f-8afb-f92fb6aeb7fa@b31a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240718T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:0c72cdb9-d01c-492b-b68f-a374c4a06bea@0c72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240220T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:ee8c6259-5c90-4600-b884-3e55a5ad5f8e@ee8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240416T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:a0e68cea-db89-46a8-9cac-8a694f705756@a0e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240821T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:2023372f-0839-4d0a-a2d9-d168581dbfc5@2023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240225T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:2b98024d-9395-4526-939b-5784bf1511b0@2b98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240813T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:7a88a6a3-2613-49b4-8291-3578062c1c21@7a88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240901T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:3c3345a0-55fe-4a8f-a588-b259fc51139b@3c33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240915T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:7eaf5c5c-f323-489a-a5d7-e8efdfee511f@7eaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240514T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:d414de1b-62dc-46eb-805f-bbf99d6ad4d1@d414.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20241210T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:e1e1cbba-d5c8-4a6b-9e3f-d340198b941e@e1e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240713T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:a6695963-de48-41d4-b040-ecc305725aa3@a669.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240518T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:1bf80745-63ed-4426-a86c-923a241e6e01@1bf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240812T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:e97c2a7a-d5fb-41b1-829f-e915e4c7e75a@e97c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240529T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:043494a5-7c6c-4bd7-bed0-62b14ff5bb3a@0434.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241208T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:865d5094-935b-4202-8f22-6f5fda98d0bd@865d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240721T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:7448c895-ba37-4aac-91f1-c7a505d64988@7448.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240520T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:3833c710-3509-44df-b8f8-29de2e064289@3833.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240422T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:9c58e0e8-1588-42de-b4d4-46a01e2058ea@9c58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240914T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:45cb8603-1fe8-4fc4-8a24-aff18b94fcd3@45cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241022T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:98a3f8bf-973c-44e9-8182-48747b6e7106@98a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240904T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:1a225308-4a3d-4ed5-8681-079dc8573328@1a22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20241129T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:2c0dd7ae-f51f-4b34-9f1d-774cd39ec310@2c0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240731T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:7ba6bddf-dc7a-4e68-bc15-08a8cff148d6@7ba6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240509T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:2d5b6fe0-6dad-446d-8907-7997613faa05@2d5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240911T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:b8d15bf8-0851-41ea-8803-31dcf31823e7@b8d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20241128T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:0b2decf4-85d6-42f8-81c0-f2d5c2e3ac6e@0b2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240521T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:8f9d7758-f2e4-4356-8257-396e3f4bea7f@8f9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240323T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:ecf2f280-a088-400b-b9e0-0ae591897702@ecf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241009T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:a7d504ec-a974-48a7-9470-54c17405521e@a7d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240629T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:e083c453-a394-451c-b2d0-f1e8c21a4dfc@e083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241005T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:19b9d4e7-a8f2-40f4-8e67-1e3e2fff513b@19b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240107T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:60ba81f9-81fd-40d8-a14d-72f637072e15@60ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240325T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:798df2f2-aa2e-427b-af8b-b3108cd3c034@798d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240626T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:fa8992a6-bedf-43bf-a8a9-cfaa3956b33f@fa89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240716T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:a0a70706-1e3b-431f-b665-10d9a4c12c9f@a0a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240908T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:2d781243-669f-48ac-a24c-08ce254315bc@2d78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240703T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:52155268-8333-429a-bf05-2bec4720826b@5215.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241229T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:0e9d9ea5-ef82-465a-9a44-758d3f7ad705@0e9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241206T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:45847655-7884-4a99-9a99-dca59c883802@4584.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240726T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:cc6aedfe-dac8-43c2-9927-4956661a0b45@cc6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240609T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:ec5f2825-627c-4f12-ac5d-bc4e0085da9f@ec5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240420T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:7c9d5d4e-43a7-4fb6-a5a9-ec46388b7b33@7c9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241121T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:0ec83054-dfa4-4179-8181-c5b96858b8e5@0ec8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240715T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:c18852e2-7a0a-4cf3-9d24-9b3aa4c99f38@c188.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240525T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:c99eb9cb-c1b6-4506-85ae-92fc9bce9547@c99e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240704T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:bde14a94-e60e-494c-adf7-3f42f41d0d0b@bde1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241108T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:34b000e0-8940-498a-8f56-5da35c05017c@34b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241021T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:c944c07e-b5a9-4972-aefc-7e753c89da16@c944.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241111T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:85ac2934-86cb-4d0d-8c1d-ed90b4166577@85ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240210T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:786cb5a9-0d32-4855-aff7-3aff2d94efda@786c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240430T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:fefd0da0-bcdf-4349-9593-a5d6fd8c1b43@fefd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240119T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:e0ba1129-a73a-4d2a-85c7-9506616b37c3@e0ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240327T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:3a07131e-6ea9-4099-b314-caf7a1d33274@3a07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240124T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:761b2dd4-28f6-4810-8a45-3482f95180fd@761b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240524T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:6460de42-df11-4e5b-b600-ed68683cd917@6460.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241015T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:a1efeab3-caa8-465a-a340-9fb1786a2878@a1ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241216T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:e1d632ea-9c22-4ef1-a1b5-88d3f79ec396@e1d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241013T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:ad0198ae-7a22-4882-9e77-aec3ebeffcfc@ad01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240218T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:71ab9452-727e-4b09-8351-58e135a0cd0d@71ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240503T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:54d7124c-b3d8-42b5-8f2b-b6b97d2cc701@54d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240720T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:4a3257ec-1579-4181-82ac-099b435e8443@4a32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240729T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:4dd7a7fd-a148-46e3-acc0-8d6ee3e26009@4dd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20241024T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:150ea708-c463-4fff-a9c0-9042cf674f54@150e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240818T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:9480df0c-d918-4f15-b239-b5516e5fdd54@9480.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240317T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:a1cb6d7c-d690-43b4-8c0d-d50bac87790d@a1cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240528T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:ddb43568-0120-4627-9924-f6102c0c30b8@ddb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240927T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:8aae4827-31fd-4225-b85a-f77a28c2ceb7@8aae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241224T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:d277c4f1-41c6-4b2d-a4f5-5d2c30dfa16c@d277.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240326T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:6567ac2d-c8fe-4c14-bb86-3d2cdbd7baf5@6567.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240523T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:e1fb2428-b486-4855-9675-b967bc5cc556@e1fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240527T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:a5a276cb-8879-4ec8-80fb-e1492984bbd7@a5a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240707T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:c6849eb3-ea5a-4b10-9102-8d36a7e62ccd@c684.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240709T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:76fccf09-51d9-465d-9dd6-e3471deb492e@76fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240928T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:0d6c3f2c-aaff-4ea4-8dc0-41571e554bd4@0d6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240116T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:7fa1d06d-5e50-426d-8d64-f1c56b5c0eff@7fa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240624T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:dcc44a37-424e-4610-9010-bb6bb512242b@dcc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241203T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:9b0de743-6e6e-4c38-bb92-204dde0e2459@9b0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240328T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:4d7579a7-ccc5-4b77-b788-333ff5d205e3@4d75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240207T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:71b64ecf-b0d7-4c28-85a9-da456ead65fc@71b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241226T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:5769b3c5-0dcb-42c8-8b7b-b7ed6820d83b@5769.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240122T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:9e4eba9b-be68-431e-8a7e-19ff29a305a3@9e4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240106T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:199cd8d1-d36f-46d9-a444-6c5189229014@199c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240909T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:68b2d229-1c48-4014-8671-edb6a186d68f@68b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240615T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:8808b1e5-a66e-4c90-ac97-8fe3468e6586@8808.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241109T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:50ea8d26-338d-4eea-a3d9-eb307d05e7bc@50ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240706T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:d33bf422-e26c-4fff-ab7f-858f0f2497b3@d33b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240131T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:21072ab8-c1df-4c57-be8a-8c41241dd7a0@2107.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240103T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:f42fb624-b353-4bd5-8722-a162c3d8a66f@f42f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240530T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:bf83d26d-5e61-4f24-9cd5-4b2e92d64e16@bf83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20241104T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:9fe56cde-0f7e-4072-8945-dfc30efd12c2@9fe5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240112T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:4d0fb2af-6b63-4c45-b42d-8ea84b7c6b0f@4d0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240710T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:6578f8c7-a0b5-4869-aee4-258414683429@6578.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240409T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:6b4b54a7-4017-4f53-8f53-e614d9acff90@6b4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240827T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:44d18d23-d7c9-42c3-ae0b-2f6a4bc6d214@44d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241027T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:6b25ab33-65c4-4a9e-b6bc-1ca0aee7e0df@6b25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240611T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:c421c8e1-7967-4254-b2cd-dc56d37bc7cb@c421.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240505T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:44ef570e-bc2d-4b5d-a89c-47f8d77556bb@44ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240310T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:fde514d3-9fd8-4fee-b511-b133942a265b@fde5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20241116T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:5ca6ba8f-09c9-4b8b-9687-0561782813bf@5ca6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20241012T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:23a34fd0-210a-47d1-a6cb-252bf1b1b593@23a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240304T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:ee0b2201-bdbb-4e26-a37e-661ac870d518@ee0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240816T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:c91f4809-4007-4ab4-98fa-66186617a4b3@c91f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240905T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:34ec160f-d4ae-4d31-a66e-1e23014ec9e3@34ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241205T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:1c4b82b9-b393-409f-9b38-8cf0e85714f7@1c4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241231T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:1b19ce0d-fdac-40b7-9443-97a08349f8bd@1b19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240916T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:7db43609-3cb0-437d-a6a5-de9163169b3d@7db4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240306T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:91eb7e6b-1e99-40f0-8913-4c48a94cbe24@91eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241228T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:53ac95d4-1b6c-41b6-a6c5-fc4f10dff4a6@53ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240808T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:2c870289-7fdd-4cb8-872c-b6477cadc582@2c87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240810T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:caf2fdb1-ffd7-4855-800b-afec0bdbe90d@caf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240201T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:8b2cc93c-717b-4bc6-b1b0-ab03c0367523@8b2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240331T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:5b8fe959-1559-41ae-a76e-5b43fea560ad@5b8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240413T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:43f30a51-40eb-4860-ba15-46cee13ed553@43f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241118T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:5e661563-3aaf-471f-94f3-358a5adb84ea@5e66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240612T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:c1d41f6c-d5e4-4321-aa7c-d38bf893f4d7@c1d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240222T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:ff66ed7d-68a4-41f9-b6b2-29f8df30da82@ff66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240417T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:b62cb02c-e6cb-49c6-be08-9c1356820e3e@b62c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240613T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:ffb74fd0-980c-469b-9bf0-5bd4364c3f66@ffb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240127T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:2569ffe0-9e11-4a5b-9258-174aef64e046@2569.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240830T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:7d538ddb-0e35-436a-9257-41d51f502bf2@7d53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240319T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:dc7eba23-0d05-4100-aa62-bc45cfc9e51c@dc7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241221T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:551f5111-bf84-466f-9eb0-931d8554e1b0@551f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240618T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:e1427eec-70eb-4590-b966-195e4ad5fe95@e142.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240301T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:7c298d71-a1c5-446f-96ba-f39642e97968@7c29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240423T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:2033cce3-0fea-486c-8d86-b48264085188@2033.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240805T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:acd902c4-8ceb-4887-8a71-b086117a4ef5@acd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20241023T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:6029fd12-8051-486e-8719-a76f4bf81dab@6029.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240217T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:c398bffa-7282-4e24-b40e-e7baac5606fb@c398.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240421T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:95acf983-cc20-4951-ab4d-477356bda355@95ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240205T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:2de6118b-d8c1-4625-980d-23c404fbce64@2de6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240216T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:974d2744-f441-4d2c-af08-e78649402c4f@974d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240617T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:45551214-798e-4cd5-8bf0-6e1c49817777@4555.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240108T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:f6a3ebbb-1a79-4a38-920c-71f73dbf3426@f6a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241017T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:14da8c53-1e9e-4a57-9eeb-9c0df6697e4a@14da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240125T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:682ed887-ed9e-4b98-89ba-4f98e59116a1@682e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240820T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:a4cb4e6a-52ea-4bc8-a57b-6a66c923ed98@a4cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240920T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:9575b901-9c4a-43f6-880f-d8f6b128ec9a@9575.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241214T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:d5453222-1baa-4450-a3d9-0bbfa36c77d3@d545.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240614T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:3192847f-3c7c-4b5a-8385-7c9292385a7f@3192.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240814T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:6699356e-6604-4df8-82bd-2c5ee77718ba@6699.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241209T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:f4249caf-e638-4bab-81dc-084379156092@f424.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240418T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:1829ce9a-bdbf-49ae-bbad-f03a8f7a86c9@1829.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240519T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:cbe8f2d3-0c95-47da-bfa3-6f5e51e010fd@cbe8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240526T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:dba9e864-3453-41e1-a183-027f53c9eb5c@dba9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240924T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:e0ee626d-739c-4c4a-9f31-cd4b650b989d@e0ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240501T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:6d9e7e6e-56e0-400e-8371-65bd809b8aa4@6d9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240929T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:1d90e10c-ca98-414c-919c-e43092afb57e@1d90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240831T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:4ba3d174-2958-448f-b56c-b31a219ab71b@4ba3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240705T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:1254310b-a491-4259-8f68-5af87842e8c2@1254.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240104T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:d98c5d45-594f-4633-aea1-4d2ef5b5c581@d98c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240402T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:e36e8d17-b68a-45cd-b128-8d462dc2e309@e36e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240311T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:e60c4895-4b3f-40be-b1c8-dbddd17974f4@e60c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240507T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:db60f79a-6a3f-4e58-a708-a2548c7bb664@db60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240313T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:b5470c32-46c0-4e5f-b120-121d7d05c040@b547.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240121T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:8e64fa06-a82f-47fd-88f9-f19448061ab1@8e64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241114T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:c739cc86-b15d-47fa-97e1-e28d75749d06@c739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241215T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:fc9b5502-bdcb-4d23-b1d2-8b86a807fc46@fc9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240913T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:b7df1472-7322-4a08-b906-3bdb185bc718@b7df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240114T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:74833b98-b2e6-4466-b9a4-87d5067229fc@7483.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241207T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:3efa65a1-b393-42d8-ab0a-69dd00f194a6@3efa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240316T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:1e883b15-1d35-4b23-82e4-26269d09b2f3@1e88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240209T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:57ab2aca-b282-439a-9f38-83027cb9f4a8@57ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240930T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:f0ab245b-13be-4d77-8b82-54aadcdd53b0@f0ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241212T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:29d44e8b-6cb2-4813-8924-669722d0455c@29d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240308T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:2f5340d1-972f-4057-8828-531b3f2ee213@2f53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240628T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:cfaa305a-7513-48d6-a9d7-922541d5b7cc@cfaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240603T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:7a481cc0-3ee5-4665-9c01-ed12784e4632@7a48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240829T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:1096ba51-a0d9-4f64-9539-2b06f4d309ee@1096.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240912T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:0150c6b6-895a-4a04-9355-57ecd2d4b45c@0150.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241225T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:5a81b3c8-39de-4cf2-a834-1843232e88bf@5a81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240321T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:3c7e4c29-21eb-42f6-bb6d-bc241fd40605@3c7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241020T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:552e7acb-55a5-4919-bab6-f0733912549b@552e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240809T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:1cd8417d-bf4e-4046-a28b-16a3f6bd1bb8@1cd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240117T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:26cd831b-c9f2-4d16-9279-7e8c537df11e@26cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240804T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:39675e28-51a4-4921-92fc-f5038323b94f@3967.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240320T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:48336108-23ef-4b21-b2d4-4c56efb0b358@4833.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20241211T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:c35dd613-43d1-41d0-aaf4-1ae28d478e9e@c35d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240601T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:21927c4b-2f06-4f84-a9cb-7a69ba73091d@2192.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240226T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:99d7d03d-5c21-421f-95d8-62ef2b665289@99d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240925T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:c3d68b59-32dc-4537-99de-2ec54b1cf951@c3d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240329T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:aaf95f1a-7457-4b41-9d94-de4f1fef0f30@aaf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240919T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:1a391738-8fb2-4ad7-a88c-9e6f48f6adc6@1a39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240903T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:44ba2bbc-4384-415b-8e12-e94d69d54006@44ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240602T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:9cff23d2-9e09-4417-a30b-4560c3ded47a@9cff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241218T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:d6dd30e0-b44a-414e-8bef-4519c5efe3aa@d6dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241006T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:700561b6-9e92-498a-bc95-5f9fed672fec@7005.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240921T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:9f89f85d-9470-44bd-9f7e-2033dc43b8e8@9f89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241230T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:26936abd-7e47-4dfe-af94-97003d267920@2693.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241125T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:97133945-c24d-464e-a37f-740d01cda293@9713.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240621T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:66a50249-9879-4870-8719-a21c2c80dfc0@66a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241029T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:fd2b34b0-f83f-404c-82dc-a39f7da9da8b@fd2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240118T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:68ddbcb5-a066-4c19-a6b5-a8e2e485ac30@68dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240724T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:032c55c0-dc0e-481a-a92c-6edfbc0d92e9@032c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240111T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:95c97296-3b61-43b7-975e-c3a83d5fca60@95c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20241222T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:6a0dd784-5422-4c39-8881-0f51752aad5b@6a0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240219T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:3e0c8649-3bd7-4490-8bd0-f63bca0c9d6a@3e0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240315T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:07227245-9716-47aa-8853-3d36a5c620ef@0722.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241101T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:9f0b667e-b66e-4dc6-95c3-36e0bae188be@9f0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240806T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:1dba4cb1-3446-433c-b905-63f140af7b29@1dba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240727T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:f1f151b3-7eed-40e3-bc57-43f11b9f0f91@f1f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240508T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:05b8b547-235b-414f-aa86-4f25d39d963a@05b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241031T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:81d0d57d-b17c-4b7c-8e22-f904e1d9c6d8@81d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240714T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:c1b7e7ba-b0c6-4e64-aa80-fa396f18908f@c1b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240102T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:4812d085-58a0-42b8-b122-1a61e0516c46@4812.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241217T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:f21d5aad-7241-4c10-bc42-f1b6fc9142a7@f21d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240619T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:66cd9d37-b33e-493b-8d1b-99ba0e22ba2e@66cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240228T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:ed72ad47-44fb-4ccb-8d2b-412bc4dbf501@ed72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240622T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:396b5b92-625f-417e-8821-c1bb8f2fec2d@396b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240110T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:417d6a1b-e95f-4e7d-bae2-010a2927658f@417d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240607T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:3aeadf82-333c-4954-9b54-3d31be31dbc2@3aea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241213T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:6a9dc4a3-391e-4595-b58e-325c2669c894@6a9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240522T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:1fc9a506-c13a-4744-b7bd-1830a70687c8@1fc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241103T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:9a3022d1-8a33-49b0-886a-b657104dfa0a@9a30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240910T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:538c9d40-8743-40b7-bedf-8e0523f1c4a1@538c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241001T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:1781ef76-ef9c-468d-a4bc-11e9865fcd42@1781.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240115T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:a792a3a6-bae2-42c6-8119-a5732e21ea64@a792.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240906T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:2e9ef0a1-f4d6-411d-9593-571e4e5a4e8e@2e9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240702T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:07c93a41-8369-4c04-bc56-afb4f91dcd29@07c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240616T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:af8b2e3f-02a4-44e3-b97e-9f1f9652ef30@af8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240802T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:32444492-7087-4bf8-a35d-33a64ec19f7a@3244.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241227T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:295b1336-646a-47ac-8af5-77d886111a20@295b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240410T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:a319b093-8f02-4653-8c17-125618374a76@a319.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240105T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:0d7fe78d-7b1d-4145-90b7-0098a95d90c9@0d7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20241117T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:49669b55-fd04-46bf-aa9c-a22ed33922e8@4966.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240330T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:3a241b9e-5b42-4324-a092-94a08eb34a2b@3a24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240123T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:e4b1529c-ba39-477f-a948-2957b5433a25@e4b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240815T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:5d722e0f-c2ea-4842-9ef6-b63e27bea6b0@5d72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240419T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:36c99ed9-d7fb-4641-a220-8c49e29113d9@36c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241123T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:06a5b41f-66ac-4733-81ac-3521fc3348bf@06a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240312T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:1f10aec3-5cd0-4485-b752-7a4a5d1e2d1f@1f10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240427T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:2349ead1-ca37-4431-bcfe-170fcf0cb27c@2349.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240606T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:a3812b4d-40f6-45bb-95fa-b0b37aa5efdb@a381.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20241105T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:244e4c1f-57e5-4645-9e20-2a1f850342b7@244e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240129T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:658d76c1-4781-46f9-947e-e9e03ca5889d@658d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240227T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:47532fdb-28ad-4982-ab07-e335da39a00e@4753.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240314T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:32b13793-6098-437d-a572-c60649ca9a9a@32b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240608T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:45a8ef5c-76e8-4876-8445-d09adb8e859b@45a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240803T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:f2691b28-7f52-4b2f-b785-b196b802749f@f269.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240504T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:a98ae260-506b-4cfb-b5b4-088ee7631148@a98a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240825T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:7813c1a1-cefe-4d7b-8234-d6b7005a0d83@7813.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241120T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:599aa647-b90e-4050-9df7-434f3a99d8ca@599a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240923T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:39b472f5-b789-412c-8a57-7535a36ceb82@39b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240823T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:86cde091-0d20-4e85-90ae-793a36023fca@86cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240109T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:dd34fc93-4974-485b-b285-3dd2e4494d7d@dd34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240708T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:d378c764-2247-42b2-a2a7-6f088c006810@d378.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240411T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:d239f93c-62dc-4f53-b5fa-575023d422bd@d239.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241007T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:4ffaa28e-cc93-4e1c-8b58-2f695be8b157@4ffa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241112T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:b2535500-a35b-4668-84a6-d8733b7051ff@b253.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240113T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:f083a48d-d8b1-4383-97c7-5c36a0909ab2@f083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240221T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:f7141179-1c44-42a6-9268-680f39ae53fc@f714.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240428T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:8dc448b0-56ba-4f4c-8581-47a2b9a3e50a@8dc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240429T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:5e5ca305-94cd-4dd2-84f2-d61c7f039363@5e5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240918T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:66182184-35be-4563-99b0-eeb076e0661e@6618.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241204T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:4f3f6ec9-48fd-40ab-949d-0c5193b61f1f@4f3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240517T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:3c7c4fca-52f4-4c86-8dc7-a5fe13ea4ca2@3c7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240128T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:c5523259-22d9-4ea6-a50d-94dc69086c27@c552.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240302T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:1f4ac479-4de2-46db-bda3-f5e2924d8400@1f4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240126T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:508a61bf-555b-484d-981e-ff3d61883d21@508a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20241011T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:9bf5993d-c4c9-4872-b0c3-6135d8798b55@9bf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240414T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:7f218a20-3fe1-4228-808a-2dc5e2482732@7f21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240701T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:51667fcd-d517-4dac-ac4d-29caef706b1f@5166.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240403T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:1aafb6da-a913-4914-8e84-a23fb6c9db81@1aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20241106T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:0a49f271-d4f7-4b9f-95ce-87d93aee4b8f@0a49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240101T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:362f9459-ed63-4305-beb4-22e23459e083@362f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240401T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:ec18288a-a00b-419c-90f7-14283e409f3f@ec18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240828T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:4fe3a990-1546-4574-a852-df0a4ba87933@4fe3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240824T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:e878829e-a68b-42b0-a3d6-f2ee340af201@e878.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240531T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:130c100c-aafe-4ae9-960a-b8baaddcd4a4@130c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241202T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:1d2239c5-4ed5-418d-8f31-446a054aba20@1d22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240309T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:facdfa5e-5b34-46ad-bb79-c21146927d24@facd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240512T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:6a773594-8145-4f83-bf61-85a03b13179a@6a77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：黄\, 米\, 咖\, 棕\n次吉：红\, 粉\, 橙\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20241008T000000Z
+SUMMARY:大吉：黄\, 米\, 咖\, 棕\,不宜：金\, 银\, 白
+UID:fec7096c-05d0-4d00-a12b-05b918798e67@fec7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：金\, 银\, 白\n次吉：黄\, 米\, 咖\, 棕\n不宜：蓝\, 黑\, 灰
+DURATION:PT1H
+DTSTART:20240630T000000Z
+SUMMARY:大吉：金\, 银\, 白\,不宜：蓝\, 黑\, 灰
+UID:ec054717-aff3-45a5-8ef8-b9127e9d6db8@ec05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20241201T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:772d72a9-671a-42df-bb78-1edaa5a99c2f@772d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：蓝\, 黑\, 灰\n次吉：金\, 银\, 白\n不宜：绿\, 青\, 碧
+DURATION:PT1H
+DTSTART:20240415T000000Z
+SUMMARY:大吉：蓝\, 黑\, 灰\,不宜：绿\, 青\, 碧
+UID:a9be16f5-4043-4cef-8cb9-b1f79347fbcb@a9be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：绿\, 青\, 碧\n次吉：蓝\, 黑\, 灰\n不宜：红\, 粉\, 橙
+DURATION:PT1H
+DTSTART:20240605T000000Z
+SUMMARY:大吉：绿\, 青\, 碧\,不宜：红\, 粉\, 橙
+UID:4e602754-04e5-4021-a09d-6f57ef608ec5@4e60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大吉：红\, 粉\, 橙\n次吉：绿\, 青\, 碧\n不宜：金\, 银\, 白
+DURATION:PT1H
+DTSTART:20240725T000000Z
+SUMMARY:大吉：红\, 粉\, 橙\,不宜：金\, 银\, 白
+UID:68ffc7a3-79f1-4fd1-9e2d-13744219e858@68ff.org
+END:VEVENT
+END:VCALENDAR
