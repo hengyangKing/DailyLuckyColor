@@ -53,41 +53,46 @@ wuxing_map = {
 }
 
 def create():
-  # 创建日历对象
-  calendar = Calendar()
+    # 创建日历对象
+    calendar = Calendar()
 
-  # 遍历2024年的每一天
-  start_date = datetime.date(2024, 1, 1)
-  end_date = datetime.date(2024, 12, 31)
-  delta = datetime.timedelta(days=1)
-  current_date = start_date
+    try:
+        start_date = datetime.date(2025, 1, 1)
+        end_date = datetime.date(2025, 12, 31)
+        
+        for n in range((end_date - start_date).days + 1):
+            current_date = start_date + datetime.timedelta(n)
+            ganzhi = Lunar.getDayGanzhi(current_date)
+            
+            # 添加干支校验
+            if len(ganzhi) != 2:
+                raise ValueError(f"无效的干支值: {ganzhi} ({current_date})")
+                
+            dizhi = ganzhi[1]
+            wuxing_of_day = wuxing_map[dizhi]
+            colors = wuxing_colors[wuxing_of_day]
 
-  while current_date <= end_date: 
-    ganzhi = Lunar.getDayGanzhi(current_date)
-    dizhi = ganzhi[1]
-    # 获取五行
-    wuxing_of_day = wuxing_map[dizhi]
-    colors = wuxing_colors[wuxing_of_day]
+            event = Event()
+            event.name = f"大吉：{', '.join(colors['大吉'])} | 不宜：{', '.join(colors['不宜'])}"
+            event.begin = current_date
+    
+            # 设置事件持续时间，例如1小时
+            event.duration = datetime.timedelta(hours=1)
+            event.description = (
+                f"大吉：{', '.join(colors['大吉'])}\n"
+                f"次吉：{', '.join(colors['次吉'])}\n"
+                f"不宜：{', '.join(colors['不宜'])}"
+            )
+            # 将事件添加到日历
+            calendar.events.add(event)
 
-    # 创建事件
-    event = Event()
-    event.name = f"大吉：{', '.join(colors['大吉'])}" + "," + f"不宜：{', '.join(colors['不宜'])}"
-    event.begin = current_date
-    # 设置事件持续时间，例如1小时
-    event.duration = datetime.timedelta(hours=1)
-    event.description = (
-        f"大吉：{', '.join(colors['大吉'])}\n"
-        f"次吉：{', '.join(colors['次吉'])}\n"
-        f"不宜：{', '.join(colors['不宜'])}"
-    )
-    # 将事件添加到日历
-    calendar.events.add(event)
-    current_date += delta
+        # 修正文件写入方式
+        with open('test.ics', 'wb') as f:
+            f.write(calendar.serialize().encode('utf-8'))
 
-  # 将日历保存为 .ics 文件
-  with open('test.ics', 'w', encoding='utf-8') as f:
-    f.writelines(calendar)
-  print("日历文件生成成功：test.ics")  
+    except Exception as e:
+        print(f"错误发生在日期 {current_date}: {str(e)}")
+        raise
 
 if __name__ == '__main__':
     create()
